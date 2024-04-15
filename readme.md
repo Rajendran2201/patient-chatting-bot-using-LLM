@@ -1,4 +1,4 @@
-Sure, here's a revised version of the README file without including code:
+
 
 # Model Pretraining for Healthcare Case Studies
 
